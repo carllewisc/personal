@@ -20,3 +20,11 @@
     background: #000;
   }
 }
+
+.hide{
+    display: none;
+}
+
+.link:hover {
+    text-decoration: none;
+}
