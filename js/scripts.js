@@ -18,11 +18,6 @@ toggleClose.addEventListener('click', function (e) {
   navMenu.classList.toggle('open');
 });
 
-// card.forEach(c => {
-//   c.addEventListener('click', function () {
-//   });
-// });
-
 /**/
 $(function(){
 	$('.galeria .card').on('click', function(){
